@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1708563533 source:c:\users\soha\desktop\project_oop_soha\project_oop_ds_soha\main.cpp
+	<iostream>
+	"Customer.h"
+	"teller.h"
+	"Bank.h"
+	<queue>
+	<fstream>
+
+1708568698 c:\users\soha\desktop\project_oop_soha\project_oop_ds_soha\include\customer.h
+	<string>
+
+1708567142 c:\users\soha\desktop\project_oop_soha\project_oop_ds_soha\include\teller.h
+	<string>
+
+1708570413 c:\users\soha\desktop\project_oop_soha\project_oop_ds_soha\include\bank.h
+	<iostream>
+	"Customer.h"
+	"teller.h"
+	<queue>
+	<string>
+
+1708571096 source:c:\users\soha\desktop\project_oop_ds_soha\main.cpp
+	<iostream>
+	"Customer.h"
+	"teller.h"
+	"Bank.h"
+	<queue>
+	<fstream>
+
+1708568698 c:\users\soha\desktop\project_oop_ds_soha\include\customer.h
+	<string>
+
+1708567142 c:\users\soha\desktop\project_oop_ds_soha\include\teller.h
+	<string>
+
+1708649132 c:\users\soha\desktop\project_oop_ds_soha\include\bank.h
+	<iostream>
+	"Customer.h"
+	"teller.h"
+	<queue>
+	<string>
+
